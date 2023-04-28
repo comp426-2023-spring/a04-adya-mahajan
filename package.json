@@ -1,0 +1,24 @@
+{
+  "name": "a04-adya-mahajan",
+  "version": "1.0.0",
+  "description": "Use a web API using Express for a cli rps/rpsls game",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a04-adya-mahajan.git"
+  },
+  "author": "adya-mahajan",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a04-adya-mahajan/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a04-adya-mahajan#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "minimist": "^1.2.8"
+  },
+  "type": "module"
+}
